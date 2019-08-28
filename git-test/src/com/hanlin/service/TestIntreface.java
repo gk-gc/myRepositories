@@ -8,4 +8,6 @@ public interface TestIntreface {
 	
 	void m3();
 	
+	void m4();
+	
 }
