@@ -6,4 +6,6 @@ public interface TestIntreface {
 	
 	void m2();
 	
+	void m3();
+	
 }
